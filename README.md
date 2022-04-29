@@ -1,2 +1,2 @@
 # myMahjongClassifier
-my first CNN project
+my first CNN project by pyTorch
